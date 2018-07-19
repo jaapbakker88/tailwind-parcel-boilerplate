@@ -15,5 +15,5 @@ yarn
 After that, start up Parcel:
 
 ```
-parcel index.html
+yarn start
 ```
