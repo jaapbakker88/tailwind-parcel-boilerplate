@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts" : {
+    "start": "./node_modules/parcel-bundler/bin/cli.js index.html"
+  },
+  "devDependencies": {
+    "tailwindcss": "^0.4.0"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.2.0"
+  }
+}
